@@ -1,7 +1,6 @@
 # <h1 align = "center"> Projetos do Curso Praticando Lógica de Programação </h1>
 
 <h3> Status das Aplicações: Concluídas ✔ </h3>
-<br>
 
 ## <h2> 📝 Descrição do Projeto </h2>
 
@@ -15,7 +14,7 @@ Foi disponibilizado pelos professores o HTML e o CSS das aplicações, cabendo s
 * Fortalecer os conceitos, sintaxe e semântico da linguagem JavaScript;
 * Desenvolver habilidades de manipulação de elementos da página via lógica;
 * Alterar classes CSS por condicionais e laços de repetição;
-* Praticar a lógica com projetos reais do dia a dia. <br> <br>
+* Praticar a lógica com projetos reais do dia a dia. <br>
 
 ## <h2> 💻 Tecnologias Utilizadas </h2>
 
@@ -24,7 +23,6 @@ Foi disponibilizado pelos professores o HTML e o CSS das aplicações, cabendo s
 ![CSS](https://img.shields.io/badge/CSS-0?style=for-the-badge&logo=css&logoColor=%23FFFFFF&color=%230022FF)
 ![Git](https://img.shields.io/badge/Git-0?style=for-the-badge&logo=git&logoColor=%23FFFFFF&color=%23F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0?style=for-the-badge&logo=github&logoColor=%23FFFFFF&color=%23181717)
-
 <br>
 
 ## <h2> 📂 Estrutura </h2>
@@ -40,10 +38,9 @@ Foi disponibilizado pelos professores o HTML e o CSS das aplicações, cabendo s
 |-- sorteador-numeros/
 |-- README.md
 ```
-
 <br>
 
-## <h2 align = "center"> Projeto Nº1: 🔢 Sorteador de Números </h2> <br>
+## <h2 align = "center"> Projeto Nº 1: 🔢 Sorteador de Números - Site para Realizar Múltiplos Sorteios </h2> <br>
 
 <div align = "center">
 
@@ -60,10 +57,9 @@ Esse projeto trata de um sorteador de números no qual o usuário insere a quant
 * Campo para adicionar a quantidade de números a serem sorteados;
 * Possibilidade de controlar o intervalo entre os números;
 * Botão para reiniciar e limpar os campos sem a necessidade de atualizar a página.
-
 <br>
 
-## <h2 align = "center"> Projeto Nº2: 🧩 Alugames - Plataforma de Aluguel de Boardgames </h2> <br>
+## <h2 align = "center"> Projeto Nº 2: 🧩 Alugames - Plataforma de Aluguel de Boardgames </h2> <br>
 
 <div align = "center">
 
@@ -81,10 +77,9 @@ O projeto ilustra um site de aluguel de boardgames (jogos de tabuleiro digitais)
 * Mensagens de confirmação caso o usuário queira alugar um jogo (Validação);
 * Mudança da classe de elementos usando o método "ClassList()";
 * Contador global do número de aluguéis realizados. 
-
 <br>
 
-## <h2 align = "center"> Projeto Nº3: 🛒 Carrinho de Compras - Seleção de Produtos para um E-commerce </h2> <br>
+## <h2 align = "center"> Projeto Nº 3: 🛒 Carrinho de Compras - Seleção de Produtos para um E-commerce </h2> <br>
 
 <div align = "center">
 
@@ -102,10 +97,9 @@ A aplicação retrata uma aba de e-commerce, na qual o usuário pode escolher um
 * Uso de campos para o usuário informar a quantidade do produto escolhido;
 * Cálculos e impressão de preços e do resultado;
 * Acesso aos valores escritos no HTML e lógica de botões do site.
-
 <br>
 
-## <h2 align = "center"> Projeto Nº4: 🎞 Compra de Ingresso Online </h2> <br>
+## <h2 align = "center"> Projeto Nº 4 : 🎞 Ingresso Online - Site para Compra e Reserva de Assentos em um Cinema</h2> <br>
 
 <div align = "center">
 
@@ -122,10 +116,9 @@ A aplicação retrata um site de compra de ingressos. O usuário pode escolher a
 * Opção para escolher o local da poltrona;
 * Espaço para o usuário informar a quantidade de poltronas;
 * Painel com a quantidade restante.
-
 <br>
 
-## <h2 align = "center"> Projeto Nº5: 🎁 Amigo Secreto - Sorteador de Nomes para um Amigo Secreto </h2> <br>
+## <h2 align = "center"> Projeto Nº 5: 🎁 Amigo Secreto - Sorteador de Nomes para um Amigo Secreto </h2> <br>
 
 <div align = "center">
 
@@ -143,8 +136,6 @@ Esse projeto é um sorteador de amigos para uma brincadeira de Amigo Secreto, on
 * Validações em caso de o usuário inserir somento um (1) participante, sorteio sem nenhuma pessoa ou nomes repetidos na lista;
 * "textContent" e "innerHTML" para inclusão da lista no HTML da página;
 * Funções Math.random das documentações para a geração de números aleatórios.
-
-<br>
 <br>
 
 ## ✨Autor dos Projetos
@@ -156,3 +147,5 @@ Esse projeto é um sorteador de amigos para uma brincadeira de Amigo Secreto, on
 <a href = "https://github.com/Victor-M-S-Rodrigues07/"><img alt="Static Badge" src="https://img.shields.io/badge/GitHub-0?style=for-the-badge&logo=github&logoColor=%23ffffff&labelColor=%23000000&color=%2300000000"></a>
 <a href = "https://cursos.alura.com.br/user/victorvicmr"><img alt="Static Badge" src="https://img.shields.io/badge/Alura-0?style=for-the-badge&color=%23100D36"></a>
 <a href = "https://cursos.alura.com.br/course/logica-programacao-praticando-desafios"> <img alt="Static Badge" src="https://img.shields.io/badge/L%C3%B3gica_de_programa%C3%A7%C3%A3o%3A_praticando_com_desafios-0?style=for-the-badge&label=Curso&labelColor=%23black&color=%23D98989"></a>
+
+🇧🇷 - 2026
