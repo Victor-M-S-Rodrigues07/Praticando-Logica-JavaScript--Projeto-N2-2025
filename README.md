@@ -9,7 +9,6 @@ Este repositório contém 5 (cinco) projetos web desenvolvidos para o curso "Ló
 
 Foi disponibilizado pelos professores o HTML e o CSS das aplicações, cabendo somente a implementação da lógica, usando o JavaScript, para manipular elementos da página a fim de atingir o objetivo proposto. 
 <br>
-<br>
 
 ## <h2> 🎯 Objetivos da Aprendizagem </h2>
 
@@ -27,7 +26,6 @@ Foi disponibilizado pelos professores o HTML e o CSS das aplicações, cabendo s
 ![GitHub](https://img.shields.io/badge/GitHub-0?style=for-the-badge&logo=github&logoColor=%23FFFFFF&color=%23181717)
 
 <br>
-<br>
 
 ## <h2> 📂 Estrutura </h2>
 
@@ -43,7 +41,6 @@ Foi disponibilizado pelos professores o HTML e o CSS das aplicações, cabendo s
 |-- README.md
 ```
 
-<br>
 <br>
 
 ## <h2 align = "center"> Projeto Nº1: 🔢 Sorteador de Números </h2> <br>
@@ -64,7 +61,6 @@ Esse projeto trata de um sorteador de números no qual o usuário insere a quant
 * Possibilidade de controlar o intervalo entre os números;
 * Botão para reiniciar e limpar os campos sem a necessidade de atualizar a página.
 
-<br>
 <br>
 
 ## <h2 align = "center"> Projeto Nº2: 🧩 Alugames - Plataforma de Aluguel de Boardgames </h2> <br>
@@ -87,7 +83,6 @@ O projeto ilustra um site de aluguel de boardgames (jogos de tabuleiro digitais)
 * Contador global do número de aluguéis realizados. 
 
 <br>
-<br>
 
 ## <h2 align = "center"> Projeto Nº3: 🛒 Carrinho de Compras - Seleção de Produtos para um E-commerce </h2> <br>
 
@@ -109,7 +104,6 @@ A aplicação retrata uma aba de e-commerce, na qual o usuário pode escolher um
 * Acesso aos valores escritos no HTML e lógica de botões do site.
 
 <br>
-<br>
 
 ## <h2 align = "center"> Projeto Nº4: 🎞 Compra de Ingresso Online </h2> <br>
 
@@ -129,7 +123,6 @@ A aplicação retrata um site de compra de ingressos. O usuário pode escolher a
 * Espaço para o usuário informar a quantidade de poltronas;
 * Painel com a quantidade restante.
 
-<br>
 <br>
 
 ## <h2 align = "center"> Projeto Nº5: 🎁 Amigo Secreto - Sorteador de Nomes para um Amigo Secreto </h2> <br>
@@ -151,7 +144,6 @@ Esse projeto é um sorteador de amigos para uma brincadeira de Amigo Secreto, on
 * "textContent" e "innerHTML" para inclusão da lista no HTML da página;
 * Funções Math.random das documentações para a geração de números aleatórios.
 
-<br>
 <br>
 <br>
 
