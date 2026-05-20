@@ -148,4 +148,4 @@ Esse projeto é um sorteador de amigos para uma brincadeira de Amigo Secreto, on
 <a href = "https://cursos.alura.com.br/user/victorvicmr"><img alt="Static Badge" src="https://img.shields.io/badge/Alura-0?style=for-the-badge&color=%23100D36"></a>
 <a href = "https://cursos.alura.com.br/course/logica-programacao-praticando-desafios"> <img alt="Static Badge" src="https://img.shields.io/badge/L%C3%B3gica_de_programa%C3%A7%C3%A3o%3A_praticando_com_desafios-0?style=for-the-badge&label=Curso&labelColor=%23black&color=%23D98989"></a>
 
-🇧🇷 - 2026
+🇧🇷 - 2024
