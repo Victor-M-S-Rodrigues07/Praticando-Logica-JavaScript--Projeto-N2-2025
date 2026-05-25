@@ -2,6 +2,20 @@
 
 <h3> Status das Aplicações: Concluídas ✔ </h3>
 
+## 📂Sumário
+
+- [Descrição do Projeto](https://github.com/Victor-M-S-Rodrigues07/Praticando-Logica-JavaScript--Projeto-N2-2025#--descri%C3%A7%C3%A3o-do-projeto-)
+- [Objetivos da Aprendizagem](https://github.com/Victor-M-S-Rodrigues07/Praticando-Logica-JavaScript--Projeto-N2-2025#--descri%C3%A7%C3%A3o-do-projeto-)
+- [Tecnologias utilizadas](https://github.com/Victor-M-S-Rodrigues07/Praticando-Logica-JavaScript--Projeto-N2-2025#--descri%C3%A7%C3%A3o-do-projeto-)
+- [Estrutura do Projeto](https://github.com/Victor-M-S-Rodrigues07/Praticando-Logica-JavaScript--Projeto-N2-2025#--descri%C3%A7%C3%A3o-do-projeto-)
+- [Projeto Nº1 - Sorteador de Número](https://github.com/Victor-M-S-Rodrigues07/Praticando-Logica-JavaScript--Projeto-N2-2025#-projeto-n%C2%BA-1--sorteador-de-n%C3%BAmeros---site-para-realizar-m%C3%BAltiplos-sorteios-)
+- [Projeto Nº 2 - Alugames](https://github.com/Victor-M-S-Rodrigues07/Praticando-Logica-JavaScript--Projeto-N2-2025#-projeto-n%C2%BA-2--alugames---plataforma-de-aluguel-de-boardgames-)
+- [Projeto Nº 3 -Carrinho de Compras](https://github.com/Victor-M-S-Rodrigues07/Praticando-Logica-JavaScript--Projeto-N2-2025#-projeto-n%C2%BA-3--carrinho-de-compras---sele%C3%A7%C3%A3o-de-produtos-para-um-e-commerce-)
+- [Projeto Nº 4 - Ingressos Online](https://github.com/Victor-M-S-Rodrigues07/Praticando-Logica-JavaScript--Projeto-N2-2025#-projeto-n%C2%BA-4---ingresso-online---site-para-compra-e-reserva-de-assentos-em-um-cinema)
+- [Projeto Nº 5 - Amigo Secreto](https://github.com/Victor-M-S-Rodrigues07/Praticando-Logica-JavaScript--Projeto-N2-2025#-projeto-n%C2%BA-5--amigo-secreto---sorteador-de-nomes-para-um-amigo-secreto-)
+- [Autor do Projeto](https://github.com/Victor-M-S-Rodrigues07/Praticando-Logica-JavaScript--Projeto-N2-2025#autor-dos-projetos)
+
+
 ## <h2> 📝 Descrição do Projeto </h2>
 
 Este repositório contém 5 (cinco) projetos web desenvolvidos para o curso "Lógica de Programação: Praticando com Desafios", da Alura. Cada projeto apresenta peculiaridades que são requisitadas no mercado de trabalho, abragendo desde E-commerce até telas de cinema e aluguel de jogos. <br>
@@ -25,18 +39,47 @@ Foi disponibilizado pelos professores o HTML e o CSS das aplicações, cabendo s
 ![GitHub](https://img.shields.io/badge/GitHub-0?style=for-the-badge&logo=github&logoColor=%23FFFFFF&color=%23181717)
 <br>
 
-## <h2> 📂 Estrutura </h2>
+## <h2> 📂 Estrutura do Projeto </h2>
 
 ```
 /praticando-logica-projeto-inicial
-|-- imagens-README/
-|-- alugames/
-|-- amigo-secreto/
-|-- exercicios-treino/
-|-- carrinho-compras/
-|-- ingresso/
-|-- sorteador-numeros/
-|-- README.md
+
+  /imagens-README
+
+  /alugames
+    /css
+    /img
+    /js
+    index.html
+
+  /amigo-secreto
+    /assets
+    /js
+    index.html
+
+  /carrinho-compras
+    /assets
+    /js
+    index.html
+    style.css
+
+  /exercicios-treino
+    index.html
+    JavaScript.js
+
+  /ingresso
+    /assets
+    /js
+    /styles
+    index.html
+
+  /sorteador-numeros
+    /img
+    app.js
+    index.html
+    style.css
+
+  README.md
 ```
 <br>
 
