@@ -4,16 +4,16 @@
 
 ## 📂Sumário
 
-- [Descrição do Projeto](https://github.com/Victor-M-S-Rodrigues07/Praticando-Logica-JavaScript--Projeto-N2-2025#--descri%C3%A7%C3%A3o-do-projeto-)
-- [Objetivos da Aprendizagem](https://github.com/Victor-M-S-Rodrigues07/Praticando-Logica-JavaScript--Projeto-N2-2025#--descri%C3%A7%C3%A3o-do-projeto-)
-- [Tecnologias utilizadas](https://github.com/Victor-M-S-Rodrigues07/Praticando-Logica-JavaScript--Projeto-N2-2025#--descri%C3%A7%C3%A3o-do-projeto-)
-- [Estrutura do Projeto](https://github.com/Victor-M-S-Rodrigues07/Praticando-Logica-JavaScript--Projeto-N2-2025#--descri%C3%A7%C3%A3o-do-projeto-)
-- [Projeto Nº1 - Sorteador de Número](https://github.com/Victor-M-S-Rodrigues07/Praticando-Logica-JavaScript--Projeto-N2-2025#-projeto-n%C2%BA-1--sorteador-de-n%C3%BAmeros---site-para-realizar-m%C3%BAltiplos-sorteios-)
-- [Projeto Nº 2 - Alugames](https://github.com/Victor-M-S-Rodrigues07/Praticando-Logica-JavaScript--Projeto-N2-2025#-projeto-n%C2%BA-2--alugames---plataforma-de-aluguel-de-boardgames-)
-- [Projeto Nº 3 -Carrinho de Compras](https://github.com/Victor-M-S-Rodrigues07/Praticando-Logica-JavaScript--Projeto-N2-2025#-projeto-n%C2%BA-3--carrinho-de-compras---sele%C3%A7%C3%A3o-de-produtos-para-um-e-commerce-)
-- [Projeto Nº 4 - Ingressos Online](https://github.com/Victor-M-S-Rodrigues07/Praticando-Logica-JavaScript--Projeto-N2-2025#-projeto-n%C2%BA-4---ingresso-online---site-para-compra-e-reserva-de-assentos-em-um-cinema)
-- [Projeto Nº 5 - Amigo Secreto](https://github.com/Victor-M-S-Rodrigues07/Praticando-Logica-JavaScript--Projeto-N2-2025#-projeto-n%C2%BA-5--amigo-secreto---sorteador-de-nomes-para-um-amigo-secreto-)
-- [Autor do Projeto](https://github.com/Victor-M-S-Rodrigues07/Praticando-Logica-JavaScript--Projeto-N2-2025#autor-dos-projetos)
+- [📝 Descrição do Projeto](https://github.com/Victor-M-S-Rodrigues07/Praticando-Logica-JavaScript--Projeto-N2-2025#--descri%C3%A7%C3%A3o-do-projeto-)
+- [🎯 Objetivos da Aprendizagem](https://github.com/Victor-M-S-Rodrigues07/Praticando-Logica-JavaScript--Projeto-N2-2025#--descri%C3%A7%C3%A3o-do-projeto-)
+- [💻 Tecnologias utilizadas](https://github.com/Victor-M-S-Rodrigues07/Praticando-Logica-JavaScript--Projeto-N2-2025#--descri%C3%A7%C3%A3o-do-projeto-)
+- [📂 Estrutura do Projeto](https://github.com/Victor-M-S-Rodrigues07/Praticando-Logica-JavaScript--Projeto-N2-2025#--descri%C3%A7%C3%A3o-do-projeto-)
+- [🔢 Projeto Nº1 - Sorteador de Número](https://github.com/Victor-M-S-Rodrigues07/Praticando-Logica-JavaScript--Projeto-N2-2025#-projeto-n%C2%BA-1--sorteador-de-n%C3%BAmeros---site-para-realizar-m%C3%BAltiplos-sorteios-)
+- [🧩 Projeto Nº 2 - Alugames](https://github.com/Victor-M-S-Rodrigues07/Praticando-Logica-JavaScript--Projeto-N2-2025#-projeto-n%C2%BA-2--alugames---plataforma-de-aluguel-de-boardgames-)
+- [🛒 Projeto Nº 3 -Carrinho de Compras](https://github.com/Victor-M-S-Rodrigues07/Praticando-Logica-JavaScript--Projeto-N2-2025#-projeto-n%C2%BA-3--carrinho-de-compras---sele%C3%A7%C3%A3o-de-produtos-para-um-e-commerce-)
+- [🎞 Projeto Nº 4 - Ingressos Online](https://github.com/Victor-M-S-Rodrigues07/Praticando-Logica-JavaScript--Projeto-N2-2025#-projeto-n%C2%BA-4---ingresso-online---site-para-compra-e-reserva-de-assentos-em-um-cinema)
+- [🎁 Projeto Nº 5 - Amigo Secreto](https://github.com/Victor-M-S-Rodrigues07/Praticando-Logica-JavaScript--Projeto-N2-2025#-projeto-n%C2%BA-5--amigo-secreto---sorteador-de-nomes-para-um-amigo-secreto-)
+- [✨ Autor do Projeto](https://github.com/Victor-M-S-Rodrigues07/Praticando-Logica-JavaScript--Projeto-N2-2025#autor-dos-projetos)
 
 
 ## <h2> 📝 Descrição do Projeto </h2>
